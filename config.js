@@ -59,7 +59,7 @@ global.nomorown = '6281333154367' //pasang no own lo
 global.nomorown1 = '6281333154367'
 global.nomorown2 = '-'
 global.nomorwa = '081333154367'
-global.nameown = '𝑍𝑌𝐾𝑂-𝑀𝐷'
+global.nameown = '𝚉𝚊𝚕𝚕'
 global.gcname = '𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
 global.author = 'Created By 𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕'
 global.namabot = '𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕'
@@ -109,7 +109,7 @@ global.lynk = 'https://lynk.id/hyuuraofc'
 
 global.pdana = '081333154367' //pasang no lo sinih buat donasi 
 global.povo = '081333154367' 
-global.pgopay = '08XXXXXXXXXX'
+global.pgopay = '-'
 global.plinkaja = '-' //link aja
 global.ppulsa = '081333154367'
 global.ppulsa2 = '081327238906'
